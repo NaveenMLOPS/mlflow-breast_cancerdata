@@ -1,10 +1,3 @@
-# -*- coding: utf-8 -*-
-"""
-Created on Sun Aug 18 12:40:19 2024
-
-@author: navin
-"""
-
 import pandas as pd
 import mlflow
 import mlflow.sklearn
