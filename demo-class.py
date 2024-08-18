@@ -1,10 +1,3 @@
-# -*- coding: utf-8 -*-
-"""
-Created on Sun Aug 18 12:40:19 2024
-
-@author: navin
-"""
-
 import mlflow
 import mlflow.sklearn
 from sklearn.model_selection import train_test_split
